@@ -4,7 +4,7 @@ This example deploys a web application called [OWASP Juice Shop](https://owasp.o
 
 
 ## Arquitecture
-![arquitecture](architecture.png)
+![architecture](architecture.png)
 
 ## Deploy
 
